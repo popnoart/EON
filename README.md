@@ -1,2 +1,2 @@
-# EON
+# EON core
 CMS casero
